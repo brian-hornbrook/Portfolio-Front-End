@@ -17,10 +17,11 @@ function Contact(props) {
                     </div>
 
                     {/* contact info */}
-                    <div className="col-sm-6">
+                    <div className="col-sm-7">
                         <ContactInfo type="cell" info="(817) 842 7123" />
                         <ContactInfo type="email" info="brian_hornbrook@outlook.com" />
                         <ContactInfo type="LinkedIn" info="https://www.linkedin.com/in/brian-hornbrook-8a0b0047/" />
+                        <ContactInfo type="Git Hub" info="https://github.com/brian-hornbrook?tab=repositories" />
                     </div>
 
 
