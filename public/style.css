@@ -1,0 +1,82 @@
+
+body {
+    background-color: lightyellow;
+}
+
+
+/* title */
+#titleArea {
+    margin: 0;
+    text-align: center;
+    background-color: red;
+}
+
+.titleInfo {
+    background-color: lightgrey;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 100px;
+}
+
+
+/* contact */
+#contactArea {
+    background-color: darkblue;
+}
+
+.contactInfo {
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+.contactItem {
+    color: white;
+}
+.contactItem:hover {
+    color: green;
+}
+
+.contactType {
+    font-weight: bold;
+    text-align: left;
+}
+
+.contactInfo {
+    text-align: left;
+    display: inline-block;
+}
+
+
+/* skills */
+.languageArea {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.skillsItem {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.center {
+    padding: 0 25%;
+}
+
+
+/* about */
+#aboutArea {
+    background-color: lightgrey;
+    margin: 50px;
+    padding: 3px 5%;
+
+}
+#aboutTitle {
+    text-align: center;
+}
+#aboutInfo {
+    margin-bottom: 10px;
+}
